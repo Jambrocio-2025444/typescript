@@ -1,0 +1,1 @@
+export type prioridad = "Baja" | "Media" | "Alta"

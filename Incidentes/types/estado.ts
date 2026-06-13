@@ -1,0 +1,1 @@
+export type estado = "abierto" | "progreso" | "resuelto"
